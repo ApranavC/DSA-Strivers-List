@@ -16,6 +16,6 @@ public:
 
 int main() {
     Solution sol;
-    cout << sol.reverse(-123) << endl; // Create an object and call the function.
+    cout << sol.reverse(-123) << endl;
     return 0;
 }
